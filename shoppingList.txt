@@ -6,3 +6,5 @@ Milk
 Bread
 Carrot
 Cereal
+Raddishes
+Jam
