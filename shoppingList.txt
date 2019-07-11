@@ -3,3 +3,4 @@ Mangoes
 Milk
 Bread
 Carrot
+Cereal
